@@ -103,9 +103,8 @@ Based on the project objectives we were able to accomplish the following:
         
 This report is beneficial for anyone who is in the gaming industry and wants to udnerstand more about the global sales of a variety of games. In addition, the report will give a insight on the different gaming genres and the trends the vary from different gaming platforms year over year. 
 
+--- 
 ### Contact
-### Liam Easter
----
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liameaster95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liameaster95)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/11Liam)
