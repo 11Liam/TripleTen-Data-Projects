@@ -4,18 +4,18 @@
 
 - [Objective](#objective)
 - [Overview](#overview)
-- [Tools & Libraries](#tools&libraries)
-- [Project Highlights](#projecthighlights)
+- [Tools](#tools)
+- [Highlights](#highlights)
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Contact](#contact)
 ---
 
-### 📝 Objective 
+### Objective 
 - Analyzed video game sales, reviews, genres, and platform data from Ice's online store to identify key factors influencing game success and to support 2017 advertising campaign planning through data-driven insights.
 ---
 
-### 🔍 Overview
+###  Overview
 - In this project we will reivew the historical data on game sales from various platforms. 
 - First, we will prepare the data and fix any necessary changes to create an accurate data base. This includes, replacing the columns names to lower case, convert data to the required types, fix missing and/or duplicated values, and lastly calculating the total sales for each game. 
 - Second, we will analyze the data through various EDA concepts and create visuals of our data that will help us draw conclusions later on. 
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tools & Libraries
+###  Tools
 
 - Python (Pandas, NumPy, Scikit-learn)
 - Matplotlib / Seaborn
@@ -38,7 +38,7 @@
 
 ---
 
-### 📸 Project Highlights
+### Highlights
 
 
 ![number of games released per year](image.png)
@@ -51,7 +51,7 @@ There is a significant differnece in sales from in the first ten platforms liste
 
 ---
 
-### ✅ Results
+### Results
 
 T-test Results:
 T-statistic: 1.57746791633354
@@ -63,7 +63,7 @@ We fail to reject the null hypothesis, which means the average ratings for Actio
 
 ---
 
-### 💡 Recommendations
+### Recommendations
 
 Based on the project objectives we were able to accomplish the following: 
     
